@@ -6,6 +6,139 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "a@email.com",
+      "password": "$2a$10$ct1GlhjawZaF5RwaW5vVteu1wXFb1ck14fu0mqMXegabmzCZ5rFQa",
+      "id": 2
+    },
+    {
+      "email": "andrea@mail.com",
+      "password": "$2a$10$DMPPiLANMtVfGxIeXRxucu4N1ACLUEHn5sgTf3b/Cryrsaczb7AIC",
+      "name": "Andrea",
+      "age": 40,
+      "id": 3
+    },
+    {
+      "email": "a@mail.com",
+      "password": "$2a$10$hD7qNHxmR19xIf./okIERuvq0JNeFzBJHAR1iY7S7y5AbXPtoUqxW",
+      "name": "eu",
+      "age": 30,
+      "id": 4
+    },
+    {
+      "email": "am@mail.com",
+      "password": "$2a$10$UhFJxYFjXWPZHIqgSBDC/.XvEHW9fXAkeit0JFsnr6LNPGvMoEGLW",
+      "name": "eu",
+      "age": 30,
+      "id": 5
+    },
+    {
+      "email": "acm@mail.com",
+      "password": "$2a$10$I6r.GXGTXQWsSXE3rwEW..Qu3SOh/KgV6HQADHwfBqCf5h2UqRkn2",
+      "name": "eu",
+      "age": 30,
+      "id": 6
+    },
+    {
+      "email": "eu@mail.com",
+      "password": "$2a$10$7shfLQHFEs/XHqJJm44Xe.Qz6pOughQx5/LhFei4/e3DtoGYzbfeO",
+      "name": "eu",
+      "age": 30,
+      "id": 7
+    },
+    {
+      "email": "cris@mail.com",
+      "password": "$2a$10$DAgqvvAta4pXwVw/Feyzzev8xFjEXcANmDRm0xqrTtbAta6wucdJG",
+      "name": "cris",
+      "age": 40,
+      "id": 8
+    },
+    {
+      "email": "dea@mail.com",
+      "password": "$2a$10$sOlqKsoRoELcgt5slYSIGuvx8AGAkv7r2CJqUIqZeW1a4I9C0Yzd2",
+      "name": "dea",
+      "age": 40,
+      "id": 9
+    },
+    {
+      "email": "oi@mail.com",
+      "password": "$2a$10$YBniz3oUe8wmFv1YBAKSZuvSpOT9htwvzH/TbgGg0NOnhBy6L6py.",
+      "name": "oi",
+      "age": 40,
+      "id": 10
+    }
+  ],
+  "animals": [
+    {
+      "species": "Cachorro",
+      "name": "Bisteca",
+      "id": 1
+    },
+    {
+      "species": "Cachorro",
+      "name": "Bisteca",
+      "id": 2
+    },
+    {
+      "species": "Cachorro",
+      "name": "Bacon",
+      "id": 3
+    },
+    {
+      "species": "Gato",
+      "name": "Venus",
+      "id": 4
+    },
+    {
+      "species": "Gato",
+      "name": "Chico",
+      "id": 5
+    },
+    {
+      "species": "Gato",
+      "name": "Paçoca",
+      "id": 6
+    },
+    {
+      "species": "Gato",
+      "name": "Paçoca",
+      "id": 7
+    },
+    {
+      "species": "Gato",
+      "name": "Paçoca",
+      "id": 8
+    },
+    {
+      "type": "Gato",
+      "name": "Paçoca",
+      "id": 9
+    },
+    {
+      "species": "Gato",
+      "name": "Paçoca",
+      "id": 10
+    },
+    {
+      "species": "Gato",
+      "name": "Juju",
+      "id": 11
+    },
+    {
+      "species": "Gato",
+      "name": "menina",
+      "id": 12
+    }
+  ],
+  "languages": [
+    {
+      "languages": "Português",
+      "id": 1
+    },
+    {
+      "languages": "Espanhol",
+      "id": 2
     }
   ]
 }
